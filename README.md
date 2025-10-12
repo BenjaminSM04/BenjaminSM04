@@ -23,8 +23,7 @@ text-dim:     #6F4D58  (texto secundario)
 <br/>
 
 <div align="center" style="color:#6F4D58;">
- 🎓 Student of <b style="color:#A6586D;">Computer Systems Engineering</b>, La Paz — Class of 2027.<br/><br/>
- 🔭 I’m currently working on <b style="color:#A6586D;">a marketplace</b>
+ 🎓 Student of <b style="color:#A6586D;">Computer Systems Engineering</b><br/><br/>
  <br/><br/>
  🌱 I’m currently learning <b style="color:#A6586D;">Docker, Supabase, AWS</b>
  <br/><br/>
