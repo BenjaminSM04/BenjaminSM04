@@ -1,61 +1,74 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BenjaminSM04.BenjaminSM04" />
+<!-- ========== PALETA GLIMMER ==========
+primary:      #A6586D  (rosa oscuro)
+accent:       #BF658F  (magenta suave)
+mint:         #BDF2D4  (menta)
+rose:         #F2CEDB  (rosa claro)
+beige:        #D9C8A9  (beige suave)
+text-dim:     #6F4D58  (texto secundario)
+====================================== -->
+
+<!-- Visitor badge con paleta -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BenjaminSM04.BenjaminSM04&left_color=A6586D&right_color=F2CEDB&left_text=visits" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Benjamin+Saenz!;" />
+  <!-- typing con color principal -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&color=A6586D&lines=Hi+There!+👋;+I'm+Benjamin+Saenz!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Bolivia</h3>
+<!-- subtítulo en tono ténue -->
+<h3 align="center" style="color:#6F4D58; font-weight:600;">
+  A passionate software developer from Bolivia
+</h3>
 
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+<div align="center" style="color:#6F4D58;">
+ 🎓 Student of <b style="color:#A6586D;">Computer Systems Engineering</b>, La Paz — Class of 2027.<br/><br/>
+ 🔭 I’m currently working on <b style="color:#A6586D;">a marketplace</b>
+ <br/><br/>
+ 🌱 I’m currently learning <b style="color:#A6586D;">Docker, Supabase, AWS</b>
+ <br/><br/>
+💬 Let’s talk about <b style="color:#A6586D;">C#, Java, Python, Kotlin</b>
+  <a href="https://github.com/BenjaminSM04/BenjaminSM04/issues" style="color:#BF658F; font-weight:600;">here</a>.<br/><br/>
+  🤝 Community-minded: active in university initiatives and civic/volunteer work.<br/>
+ ⚡ Fun fact <span style="color:#BF658F;">Game of Thrones Night's Watch cloaks are made from Ikea rugs</span>
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/BenjaminSM04/BenjaminSM04/issues)**
+</div>
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
- 
-<div align="center"> 
+<!-- Badges en paleta -->
+<div align="center" style="margin-top:18px;">
   <a href="mailto:Benjaminsaenz17@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-A6586D?style=for-the-badge&logo=gmail&logoColor=F2CEDB&labelColor=BF658F" />
   </a>
-  <a href="www.linkedin.com/in/benjamin-saenz-molina" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
- <!-- <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />  sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://www.linkedin.com/in/benjamin-saenz-molina" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-A6586D?style=for-the-badge&logo=linkedin&logoColor=BDF2D4&labelColor=BF658F" />
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<!-- separador suave en beige -->
+<hr style="height:2px;border:none;background:#D9C8A9;opacity:.6;margin:24px 0;" />
+
+<h2 align="center" style="color:#A6586D;">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<!--mui,,tailwind ,r nodejs -->
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,dotnet,firebase" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,unity,firebase,mongodb,cs,java,mysql" /><br>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,dotnet,firebase" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,unity,firebase,mongodb,cs,java,mysql" /><br>
 </div>
 
 <br/>
-<hr/>
+<hr style="height:2px;border:none;background:#D9C8A9;opacity:.6;margin:24px 0;" />
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2 style="color:#A6586D;">🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/BenjaminSM04/BenjaminSM04/output/github-contribution-grid-snake.svg" />
-  
+  <!-- agrega ?v=2 si no ves los cambios por caché -->
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/BenjaminSM04/BenjaminSM04/output/github-contribution-grid-snake.svg?v=1" />
   <br/><br/><br/>
 </div>
 
-<hr/>
+<hr style="height:2px;border:none;background:#D9C8A9;opacity:.6;margin:24px 0;" />
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center" style="color:#A6586D;">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
   <!-- 🔥 Streak Stats -->
@@ -76,18 +89,16 @@
        alt="top langs"/>
 </div>
 
-
 <br/><br/>
 
-<hr/>
+<hr style="height:2px;border:none;background:#D9C8A9;opacity:.6;margin:24px 0;" />
 
 <br/>
 
 <!-- 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'>
+    <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' alt='Buy Me a Coffee at ko-fi.com' />
+  </a>
 </div>
 -->
-
-<br/>
-
