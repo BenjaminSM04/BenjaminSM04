@@ -24,9 +24,9 @@ text-dim:     #6F4D58  (texto secundario)
 
 <div align="center" style="color:#6F4D58;">
  🎓 Student of <b style="color:#A6586D;">Computer Systems Engineering</b><br/><br/>
- <br/><br/>
+ <br/>
  🌱 I’m currently learning <b style="color:#A6586D;">Docker, Supabase, AWS</b>
- <br/><br/>
+ <br/>
 💬 Let’s talk about <b style="color:#A6586D;">C#, Java, Python, Kotlin</b>
   <a href="https://github.com/BenjaminSM04/BenjaminSM04/issues" style="color:#BF658F; font-weight:600;">here</a>.<br/><br/>
   🤝 Community-minded: active in university initiatives and civic/volunteer work.<br/>
