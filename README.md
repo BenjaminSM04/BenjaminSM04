@@ -75,5 +75,5 @@
 </div>
 
 <br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?BenjaminSM04=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BenjaminSM04)](https://git.io/streak-stats)
 
