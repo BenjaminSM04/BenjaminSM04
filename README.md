@@ -23,8 +23,7 @@ text-dim:     #6F4D58  (texto secundario)
 <br/>
 
 <div align="center" style="color:#6F4D58;">
- 🎓 Student of <b style="color:#A6586D;">Computer Systems Engineering</b><br/><br/>
- <br/>
+ 🎓 Student of <b style="color:#A6586D;">Computer Systems Engineering</b><br/>
  🌱 I’m currently learning <b style="color:#A6586D;">Docker, Supabase, AWS</b>
  <br/>
 💬 Let’s talk about <b style="color:#A6586D;">C#, Java, Python, Kotlin</b>
