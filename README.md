@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Benjamin+Saenz!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Bolivia 🇨🇦</h3>
+<h3 align="center">A passionate software developer from Bolivia</h3>
 
 <br/>
 
@@ -58,11 +58,54 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=BenjaminSM04&theme=react&border_radius=10" alt="streak stats" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=BenjaminSM04&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <!-- 🔥 Streak Stats -->
+  <img width="390"
+       src="https://streak-stats.demolab.com?user=BenjaminSM04
+       &background=00000000
+       &ring=A6586D
+       &fire=BF658F
+       &currStreakNum=A6586D
+       &sideNums=A6586D
+       &currStreakLabel=BF658F
+       &sideLabels=BF658F
+       &dates=6F4D58
+       &border=D9C8A9
+       &border_radius=10"
+       alt="streak stats"/>
+
+  <!-- 📊 General Stats -->
+  <img width="390"
+       src="https://github-readme-stats.vercel.app/api?username=BenjaminSM04
+       &count_private=true
+       &show_icons=true
+       &title_color=A6586D
+       &icon_color=BF658F
+       &text_color=6F4D58
+       &bg_color=00000000
+       &border_color=D9C8A9
+       &border_radius=10
+       &rank_icon=github"
+       alt="readme stats"/>
+
   <br/>
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminSM04&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+  <!-- 🗣️ Top Languages -->
+  <img width="325" align="center"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=BenjaminSM04
+       &hide=HTML
+       &langs_count=8
+       &layout=compact
+       &title_color=A6586D
+       &text_color=6F4D58
+       &bg_color=00000000
+       &border_color=D9C8A9
+       &border_radius=10
+       &size_weight=0.5
+       &count_weight=0.5
+       &exclude_repo=github-readme-stats"
+       alt="top langs"/>
 </div>
+
 
 <br/><br/>
 
