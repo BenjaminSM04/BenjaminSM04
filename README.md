@@ -50,7 +50,7 @@ text-dim:     #6F4D58  (texto secundario)
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,dotnet,firebase" />
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,unity,firebase,mongodb,cs,java,mysql" /><br>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,unity,mongodb,cs,java,mysql" /><br>
 </div>
 
 <br/>
