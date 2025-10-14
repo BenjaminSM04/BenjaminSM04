@@ -1,4 +1,4 @@
-<!-- ========== PALETA GLIMMER ==========
+ <!-- ========== PALETA GLIMMER ==========
 primary:      #A6586D  (rosa oscuro)
 accent:       #BF658F  (magenta suave)
 mint:         #BDF2D4  (menta)
