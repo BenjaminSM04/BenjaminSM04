@@ -74,17 +74,6 @@ text-dim:     #6F4D58  (texto secundario)
        src="https://streak-stats.demolab.com/?user=BenjaminSM04&background=00000000&ring=A6586D&fire=BF658F&currStreakNum=A6586D&sideNums=A6586D&currStreakLabel=BF658F&sideLabels=BF658F&dates=6F4D58&border=D9C8A9&border_radius=10"
        alt="streak stats"/>
 
-  <!-- 📊 General Stats -->
-  <img width="390"
-       src="https://github-readme-stats.vercel.app/api?username=BenjaminSM04&count_private=true&show_icons=true&title_color=A6586D&icon_color=BF658F&text_color=6F4D58&bg_color=00000000&border_color=D9C8A9&border_radius=10&rank_icon=github"
-       alt="readme stats"/>
-
-  <br/>
-
-  <!-- 🗣️ Top Languages -->
-  <img width="325" align="center"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=BenjaminSM04&hide=HTML&langs_count=8&layout=compact&title_color=A6586D&text_color=6F4D58&bg_color=00000000&border_color=D9C8A9&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
-       alt="top langs"/>
 </div>
 
 <br/><br/>
