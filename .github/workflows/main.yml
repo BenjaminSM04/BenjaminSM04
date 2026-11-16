@@ -9,25 +9,25 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Clone repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
         id: snake
         with:
           github_user_name: ${{ github.repository_owner }}
+          # color_dots = vacío, nivel 1, nivel 2, nivel 3, nivel 4 (5 colores, de menor a mayor intensidad)
           outputs: |
-            # 🎨 Glimmer light
-            dist/github-contribution-grid-snake.svg?color_snake=#A6586D&color_dots=#BDF2D4,#F2CEDB,#BF658F,#D9C8A9
-            # 🎨 Glimmer dark
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#BF658F&color_dots=#F2CEDB,#BDF2D4,#D9C8A9,#6F4D58
-            # 🎨 Glimmer GIF (opcional)
-            dist/github-contribution-grid-snake.gif?color_snake=#A6586D&color_dots=#BDF2D4,#F2CEDB,#BF658F,#D9C8A9
+            dist/github-contribution-grid-snake.svg?color_snake=#A6586D&color_dots=#F2CEDB,#D9C8A9,#BF658F,#A6586D,#6F4D58
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#D9C8A9&color_dots=#6F4D58,#A6586D,#BF658F,#F2CEDB,#BDF2D4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -35,7 +35,7 @@ jobs:
         run: git status
 
       - name: Push new files to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
